@@ -12,3 +12,20 @@ h1 {
 p {
   color: #444444;
 }
+
+.botones {
+  margin-top: 20px;
+}
+
+.btn {
+  background-color: #1a5fb4;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.cancelar {
+  background-color: #888888;
+}
