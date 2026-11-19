@@ -1,4 +1,14 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: white;
+  background-color: #eaf2fb;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  color: #1a5fb4;
+}
+
+p {
+  color: #444444;
 }
